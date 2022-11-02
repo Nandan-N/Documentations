@@ -1,0 +1,6 @@
+Solution:
+
+We plan to address this huge problem using our robust solutional product which is extremely friendly to use. Among our innumerable features include activity recommendation of wide variety to informational resources.  Our advanced friendly chatbot helps hear out people and identify the root issue while giving them reassurance. The website helps to raise alarm over the cyberbullying and similar issues and note it to relevant authorities. We also have tons of other features like mini activities and awareness sections.
+
+
+Technology used are web development languages and tools like JQuery, JS, Flask, NLP and MERN stack. 
