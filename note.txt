@@ -1,0 +1,7 @@
+According to new education policy, the medium of instruction at least till grade five and preferably till grade eight and beyond, should be the mother tongue or regional language, wherever possible, in both public and private schools.
+
+
+If a student migrates from one state to another, it'll be hard for him/her to understand the regional language, So they might be left behind in few areas.  
+
+
+Create a website which will focus on helping students to understand the regional language and in soloving their doubts, queries, learning lessons, vocabulary, taking quiz etc 
