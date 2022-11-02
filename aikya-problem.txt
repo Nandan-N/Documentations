@@ -1,0 +1,6 @@
+Project description and problem statement :-
+
+
+Our project aims to tackle on the mental health issues by creating a free online help ecosystem integrated with a chatbot. With great friendly UX and variety of features, this platform helps in dealing and overcoming the core issues faced by the people. Our project will deal with over 20+ common issues ranging from cyber bullying to body dysmorphia and provides scientific and unique help to each of them in a clear way to all sort of age segments of people. It will also contain external educational resources and a great chatbot. 
+
+With mental problem being one of the worlds biggest recurring issue, there’s a lot of unspoken stigmas attached to it. With emotional, psychological, and social well-being being a fundamental need and with over 30% of human population facing these issues, we believe that there’s a lot of potential to help each other and prosper.
