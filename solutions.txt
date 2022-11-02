@@ -1,0 +1,15 @@
+
+Solutions :-
+We seek to implement scientific learning approach to language learning including *constant revisions, recalls and reviews*. 
+From having various sections from Vocabulary revising to improve word power to quizes to raise your doubts section. 
+Our website structure is based on scientificaly supported "Read, Revise Review, Recall and Remember" structure. The learning is structured and divided into small chunks for easier learning. 
+We will implement all this while also building a user and kid friendly website to make learning more attractive. We will source our content needed from the ncert supplemented with open linguistics projects.
+We are completely confident in implementing a basic version of it within 24 hours and very excited to do so.
+
+
+
+
+
+
+Business statement :-
+this is a complete non profit NGO and will always remain to be so. We are driven by our desire to contribute to the society and will continue to service and contribute so.  
