@@ -1,6 +1,8 @@
 # Hackathon-proposals
 Few of the hackathon proposals and statements written for the 10+ hackathons attended at University in year 2022
 
+***
+
 Few of them include - 
 Healthhack by weal,  
 
