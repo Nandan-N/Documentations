@@ -1,26 +1,32 @@
 # Hackathon-proposals
-Few of the hackathon proposals and statements written for the 10+ hackathons attended at University in year 2022
+Few of the hackathon proposals and statements written for the 15+ hackathons attended at University in year 2022
 
 ***
 
 ## Few of them include - 
 
-Healthhack by weal,  
+- Healthhack by weal,  
 
-Haul it away 2.0 by Aikya, 
+- Haul it away 2.0 by Aikya, 
 
-Silicon rush by IEEE, 
+- Silicon rush by IEEE, 
 
-Samajik, 
+- Samajik, 
 
-Hacknight by AMC, 
+- Hacknight by AMC, 
 
-Line of code by Apex, 
+- Line of code by Apex, 
 
-Hallothon, 
+- Hallothon, 
 
-Robofest, 
+- Robofest, 
 
-Synapse, 
+- Synapse, 
 
-Datathon
+- Datathon,
+
+- Datajam - IIM bangalore
+
+- Psychothon
+
+- AIML RVCE
