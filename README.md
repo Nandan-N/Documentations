@@ -6,27 +6,33 @@ Few of the hackathon proposals and statements written for the 15+ hackathons att
 ## Few of them include - 
 
 - Healthhack by weal,  
+>(teammates - Sufiyan, Kushala and Deepa)
 
-- Haul it away 2.0 by Aikya, 
+- Haul it away 2.0 by Aikya,  
+>(teammates - Revant, K)
 
-- Silicon rush by IEEE, 
+- Silicon rush by IEEE,  
+>(teammates - )
 
 - Samajik, 
+>(teammates - Ujwal, Deepashree and Kushala)
 
-- Hacknight by AMC, 
+- Hacknight by AMC,  
+>(teammates - solo)
 
-- Line of code by Apex, 
+- Line of code by Apex,  
+>(teammates - Suhas Shroff, Tejas and Mitravainda)
 
 - Hallothon, 
+>(teammates - Neelkund, Digvijay and Puneeth)
 
 - Robofest, 
 
-- Synapse, 
+- Datathon, 
+>(teammates - Nandish)
 
-- Datathon,
-
-- Datajam - IIM bangalore
-
-- Psychothon
+- Datajam - IIM bangalore 
+>(teammates - Gayathri and )
 
 - AIML RVCE
+>(teammates - Adithi, Aavish, Ganya and Aashish)
