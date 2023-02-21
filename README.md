@@ -12,7 +12,7 @@ Few of the hackathon proposals and statements written for the 15+ hackathons att
 >(teammates - Revant, K)
 
 - Silicon rush by IEEE,  
->(teammates - )
+>(teammates - Ankush, Aarya and Amritha)
 
 - Samajik, 
 >(teammates - Ujwal, Deepashree and Kushala)
@@ -26,8 +26,6 @@ Few of the hackathon proposals and statements written for the 15+ hackathons att
 - Hallothon, 
 >(teammates - Neelkund, Digvijay and Puneeth)
 
-- Robofest, 
-
 - Datathon, 
 >(teammates - Nandish)
 
@@ -36,3 +34,6 @@ Few of the hackathon proposals and statements written for the 15+ hackathons att
 
 - AIML RVCE
 >(teammates - Adithi, Aavish, Ganya and Aashish)
+
+- Kodikon 2.0
+>(teammates - Swathi, Anushka and Vruddhi)
