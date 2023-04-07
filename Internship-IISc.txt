@@ -1,0 +1,11 @@
+Dear Dr. ,
+
+I hope this email finds you well. My name is Nandan N, and I am a sophomore in computer science from PES University, Bangalore. I recently had the pleasure of attending IISc's open day, where I was encouraged by fellow students to reach out to you. Your talk on youtube on ""was interesting and further encouraged me to write this mail.
+As an aspiring researcher in computer science, I am eager to further my knowledge and gain practical experience by interning under your guidance this summer, specifically during June, July, and August. 
+Your research in () perfectly with my interests, and I am keen to explore the interdisciplinary applications of computer science and biology.During my time at university, I have demonstrated my commitment to research and academics by serving as a research assistant and teaching assistant, achieving outstanding academic scores, and completing numerous certification courses. 
+I am proficient in Python and have experience with frameworks and technologies such as TensorFlow, OpenCV, Git, and YOLO and (). I am prepared to learn any additional prerequisites to contribute effectively to your research. I would greatly appreciate any information on potential internship opportunities at the (). I am happy to provide any additional information or answer any questions you may have. 
+Feel absolutely at ease ignoring this request, but on the off chance that you are interested -Please find my curriculum vitae attached here and feel free to visit my GitHub account at https://github.com/Nandan-N. Thank you for your time, and I eagerly await your response. Either way, Have an amazing week :)
+
+Best regards,
+
+Nandan N
