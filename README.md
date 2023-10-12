@@ -37,3 +37,10 @@ Few of the hackathon proposals and statements written for the 15+ hackathons att
 
 - Kodikon 2.0
 >(teammates - Swathi, Anushka and Vruddhi)
+
+- Hallothon 3.0
+>(teammates - Shreeja and Pranathi Praveen)
+
+- Smart India Hackathon
+>(teammates - Amulya Marali, Karthik Namboori, Leharaditya. Nigel, Yashaswini)
+
